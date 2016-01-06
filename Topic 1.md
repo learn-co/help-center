@@ -4,4 +4,4 @@ Answer to question 1.
 
 # Question 2
 
-Answer to question 2. edit
+Answer to question 2.
