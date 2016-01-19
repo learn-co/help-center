@@ -2,13 +2,13 @@
 
 Questions can be asked by clicking the Ask a Question button at the top right of the page. The question feature notes what lab you are on and will ping any student who has set their questions feature to include the lesson you are on.
 
-![asking a question](https://s3.amazonaws.com/ironboard-learn/help-center/image02.png =900x) 
+![asking a question](https://s3.amazonaws.com/ironboard-learn/help-center/image02.png) 
 
 # How do I paste code in a question?
 
 If you would like to paste code in a chat type ``` to open a code snippet. This is the best way to show someone your code in the chat, as it renders as code with the correct formatting, and it will be readable. 
 
-![paste code in question](https://s3.amazonaws.com/ironboard-learn/help-center/image03.png 900x)
+![paste code in question](https://s3.amazonaws.com/ironboard-learn/help-center/image03.png)
 
 # Who sees my question?
 
