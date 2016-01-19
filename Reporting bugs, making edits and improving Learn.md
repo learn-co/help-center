@@ -2,7 +2,9 @@
 
 Click on the three dots at the top of the lesson, and select Raise an Issue from the dropdown menu. This will open the text of the lesson in an editor. Add your contribution and then click submit to open a pull request with your change. 
 
-[photo]
+![open edit](https://s3.amazonaws.com/ironboard-learn/help-center/image01.png)
+
+![edit lesson](https://s3.amazonaws.com/ironboard-learn/help-center/image04.png)
 
 Once the curriculum team reviews your open pull request, and if they agree with the change, they will merge it in. You'll get to contribute to the curriculum and pick up some nice open source contribution cred at the same time. Once your change is merged in you will be notified via email. If your change was rejected for one reason, or another, you will also receive an email.
 
@@ -14,7 +16,7 @@ Use this editor whenever you see an issue in the content of the lesson. It could
 
 Click on the three dots at the top of the lesson, and select Raise an Issue from the dropdown menu to open an issue on the canonical github repository for the lesson. 
 
-[photo]
+![raise issue](https://s3.amazonaws.com/ironboard-learn/help-center/image00.png)
 
 Once you’ve filled out the issue with detailed information, click submit. The curriculum team will be notified that there is an open issue on the lesson’s repository. They may follow up with you on the issue in Github. 
 
@@ -28,7 +30,7 @@ Note: Do not open a Github issue on the lesson repository if you are having a pr
 
 To report a bug hover over your avatar in the top right corner and select Report a Bug from the dropdown menu. Be explicit with your bug report. Provide reproduction steps, and as much context as you can. If possible, send a screenshot of the bug. 
 
-[photo]
+![report bug](https://s3.amazonaws.com/ironboard-learn/help-center/image05.png)
 
 # When should I report a bug?
 
