@@ -1,6 +1,6 @@
 # How can I edit copy in a lesson?
 
-Click on the three dots at the top of the lesson, and select Raise an Issue from the dropdown menu. This will open the text of the lesson in an editor. Add your contribution and then click submit to open a pull request with your change. 
+Click on the three dots at the top of the lesson, and select Edit Lesson from the dropdown menu. This will open the text of the lesson in an editor. Add your contribution and then click submit to open a pull request with your change. 
 
 ![open edit](https://s3.amazonaws.com/ironboard-learn/help-center/image01.png)
 
