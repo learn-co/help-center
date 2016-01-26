@@ -44,4 +44,4 @@ Try searching for an invite in your email. You are automatically invited to Slac
 
 # What is Karma?
 
-You get a Karma point when you contribute to a question asked on Learn. You only get the point once the question has been closed. You should strive to contribute something meaningful to each conversation you participate in.
+You get a Karma point when you contribute to a question asked on Learn. You only get the point once the question has been closed. You should strive to contribute something meaningful to each conversation you participate in. 
