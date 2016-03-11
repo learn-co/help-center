@@ -40,7 +40,7 @@ We ask that you pose lab and lesson specific questions on Learn, for a couple of
 
 # How do I get access to the Learn Slack?
 
-Try searching for an invite in your email. You are automatically invited to Slack when you join the Learn Intro to Ruby track, and we've invited you with the email you used to sign up for Learn. If you can't track down that email, send an email to support@learn.co and we will resend an invitiation.
+Try searching for an invite in your email (Searching for "invite Learn.co slack" usually works). You are automatically invited to Slack when you join the Learn Intro to Ruby track, and we've invited you with the email you used to sign up for Learn. If you can't track down that email, send an email to support@learn.co and we will resend an invitiation.
 
 # What is Karma?
 
