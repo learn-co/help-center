@@ -1,4 +1,4 @@
-# What is a Study Group? 
+# What is a study group? 
 
 Study groups are a way for you learn collaboratively with a group of students online. When you join a study group, you’re signing up to be on Learn with the group at a particular time on a particular day. 
 
