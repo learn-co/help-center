@@ -38,18 +38,36 @@ We recommend using an app cleaner to ensure it is fully deleted. This is an app 
 
 # The IDE isn't working for me. The text is greyed out in the terminal and I can’t type. What do I do?
 
-Is there a red DISCONNECTED warning at the bottom right of the terminal? To reconnect go to Packages-->Learn.co-->Reconnect.
+Is there a red DISCONNECTED warning at the bottom right of the terminal? 
+
+![disconnected] (https://s3.amazonaws.com/ironboard-learn/help-center/disconnected.png)
+
+To reconnect go to Packages-->Learn.co-->Reconnect.
+
+![reconnect] (https://s3.amazonaws.com/ironboard-learn/help-center/reconnect.png)
+
+If you are connected you will see the following:
+
+![connected] (https://s3.amazonaws.com/ironboard-learn/help-center/connected.png)
 
 # I see 'Not authorized.' in the terminal. What does this mean, and how can I fix it?
 
-This means you have entered your OAuth Token incorrectly. To fix this, you should click on Atom-->Open Your Config (Mac) or File-->Open Your Config (Windows). Atom will open a file with lines that look something like this:
-"integrated-learn-environment":
+This means you have entered your OAuth Token incorrectly. To fix this, you should click on Atom-->Open Your Config (Mac) or File-->Open Your Config (Windows). 
+
+![open-config] (https://s3.amazonaws.com/ironboard-learn/help-center/open-config.png)
+
+
+Atom will open a file with lines that look something like this:
+
+```"integrated-learn-environment":
 
     oauthToken: "oauth_token_here"
-
+```
+![oauth-token] (https://s3.amazonaws.com/ironboard-learn/help-center/oath-token.png)
 
 Now visit https://learn.co/ile/token, correctly paste it into this file between the “ “, and then save. Then fully quit the Learn IDE (using the Atom or File menu). Just clicking the (X) at the corner of the window to close is not enough. You MUST use the file menu to fully quit.
-If your config file does not already have the code snippet, just add those lines right under the "userId:..." line.
+
+If your config file does not already have the code snippet, just add those lines right under the "userId:..." line as seen in the above screenshot.
 
 # I see 'No passwd entry for user "username"' and cannot work in the IDE, how can I fix this?
 
