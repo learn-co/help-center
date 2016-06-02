@@ -12,7 +12,7 @@ Windows 7+ (8+ preferred)
 
 # Do I have to use the IDE?
 
-Yes. If you are unable to use the IDE due to your operating system not meeting the requirements, please email support+ide@learn.co.
+Yes. If you are unable to use the IDE due to your operating system not meeting the requirements, please email support+ide@learn.co
 
 # How do I check which version of the IDE I am using?
 
