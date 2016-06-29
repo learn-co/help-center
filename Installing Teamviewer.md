@@ -1,4 +1,5 @@
-# Steps to installing Teamviewer ([What is Teamviewer?](#see-below))
+# Steps to installing Teamviewer
+ ([What is Teamviewer?](#see-below))
 
 1. If you're coming from an "Ask a Question" screenshare request modal, your download of Teamviewer should have already begun. If not, go to [Teamviewer Download Page](http://www.teamviewer.com/download/) and download it!
 2. Once you have downloaded the .dmg, .exe, or .deb file from Teamviewer, open it up and begin the installation.
