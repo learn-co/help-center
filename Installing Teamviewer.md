@@ -8,20 +8,19 @@ We use it to enable screensharing between you and the Learn team. Sometimes, tex
 
 # Steps to installing Teamviewer
 
-If you're coming from an "Ask a Question" screenshare request modal, your download of Teamviewer should have already begun. If not, go to [Teamviewer Download Page](http://www.teamviewer.com/download/) and download it!
+These instructions assume you're coming from "Ask a Question" on Learn after an Expert requested a screen share session with you. Please see the installation instructions for your operation system. 
 
-Once you have downloaded the .dmg, .exe, or .deb file from Teamviewer, open it up and begin the installation.
+## On Mac
 
-Once you complete the installation, you will see another window pop-up like this:
-
+- If you're coming from an "Ask a Question" screenshare request modal, your download of Teamviewer should have already begun. If not, go to [Teamviewer Download Page](http://www.teamviewer.com/download/) and download it!
+- Once you download the .dmg, .exe, or .deb file, open it up and begin the installation.
+- Once you complete the installation, you may see another window pop-up like the one below. Click Continue and then skip through to the end. You do not need to setup Unattended Access. We won't be using it.  
 ![setup-modal](https://cloud.githubusercontent.com/assets/1326555/16464635/186f682c-3e09-11e6-8419-58fefa96f2a1.png)
-
-Click Continue and then skip the step to setup Unattended Access (we won't be using that) and then click Finish. Repeat, you shouldn't need to setup an account with Teamviewer to use it on Learn. It's FREE.
-
-Once you've clicked Finish, go back to Learn and now you can launch into screenshares directly from Learn!
-
-NOTE: If your OS is Windows, please restart Chrome after you've completed your Teamviewer installation. 
-
-If you came from an "Ask a Question" screenshare request modal, you should now see a modal like this:
-
+- Click Finish. You'll see a window like the one below. You do not need to create an account or otherwise interact with this window to join your screen share session. 
+![TeamViewer Homepage](https://cloud.githubusercontent.com/assets/5470676/16694969/271fc2fa-450b-11e6-8079-79714ca52d4a.png)
+- Return to your question on Learn to join your session. You'll see a modal like the one below in your question. 
 ![join-modal](https://cloud.githubusercontent.com/assets/1326555/16524637/d138bbd8-3f76-11e6-92fe-e9840fe5952a.png)
+
+## On Windows
+Your installation should mirror the Mac installation steps, with one exception. After installing Teamviewer 11, you'll need to restart your browser. Then return your question on Learn to join your session.  
+
