@@ -20,7 +20,7 @@ Click Continue and then skip the step to setup Unattended Access (we won't be us
 
 Once you've clicked Finish, go back to Learn and now you can launch into screenshares directly from Learn!
 
-NOTE: If your OS is Windows, please restart Chrome after you've completed your Teamviewer.
+NOTE: If your OS is Windows, please restart Chrome after you've completed your Teamviewer installation. 
 
 If you came from an "Ask a Question" screenshare request modal, you should now see a modal like this:
 
