@@ -19,9 +19,11 @@ These instructions assume you're coming from "Ask a Question" on Learn after an 
 5. Return to your question on Learn to join your session. You'll see a modal like the one below in your question.![join-modal](https://cloud.githubusercontent.com/assets/1326555/16524637/d138bbd8-3f76-11e6-92fe-e9840fe5952a.png)
 
 # Installing TeamViewer on Windows
+
 Your installation should mirror the Mac installation steps (see above), with one important exception. After installing Teamviewer 11, you'll need to restart your browser. Then return your question on Learn to join your session.  
 
 # Installing TeamViewer on Linux
+
 Your installation should mirror the Mac installation steps (see above), with one exception. You should not see the Unattended Access setup flow (step 3 in the Mac OS installation instructions).
 
 
