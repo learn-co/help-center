@@ -11,8 +11,8 @@ Learn more about it at http://www.teamviewer.com/
 These instructions assume you're coming from "Ask a Question" on Learn after an Expert requested a screen share session with you. Please see the installation instructions for your operation system.
 
 
-
 # Installing TeamViewer on Mac OS
+Placeholder text. 
 
 
  
