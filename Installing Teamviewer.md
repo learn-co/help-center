@@ -14,8 +14,7 @@ These instructions assume you're coming from "Ask a Question" on Learn after an 
 
 1. If you're coming from an "Ask a Question" screenshare request modal, your download of Teamviewer should have already begun. If not, go to [Teamviewer Download Page](http://www.teamviewer.com/download/) and download it!
 2. Once you download the .dmg, .exe, or .deb file, open it up and begin the installation.
-3. Once you complete the installation, you may see another window pop-up like the one below. Click Continue and then skip through to the end. You do not need to setup Unattended Access. We won't be using it.  
-![setup-modal](https://cloud.githubusercontent.com/assets/1326555/16464635/186f682c-3e09-11e6-8419-58fefa96f2a1.png)
+3. Once you complete the installation, you may see another window pop-up like the one below. Click Continue and then skip through to the end. You do not need to setup Unattended Access. We won't be using it.![setup-modal](https://cloud.githubusercontent.com/assets/1326555/16464635/186f682c-3e09-11e6-8419-58fefa96f2a1.png)
 4. Click Finish. You'll see a window like the one below. You do not need to create an account or otherwise interact with this window to join your screen share session. 
 ![TeamViewer Homepage](https://cloud.githubusercontent.com/assets/5470676/16694969/271fc2fa-450b-11e6-8079-79714ca52d4a.png)
 
