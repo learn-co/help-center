@@ -6,7 +6,7 @@ We use it to enable screensharing between you and the Learn team. Sometimes, tex
 
  Learn more about it at http://www.teamviewer.com/
 
-# Steps to installing Teamviewer
+# How to install TeamViewer
 
 These instructions assume you're coming from "Ask a Question" on Learn after an Expert requested a screen share session with you. Please see the installation instructions for your operation system.
 
