@@ -13,6 +13,8 @@ These instructions assume you're coming from "Ask a Question" on Learn after an 
 # Installing TeamViewer on Mac OS
 
 1. If you're coming from an "Ask a Question" screenshare request modal, your download of Teamviewer should have already begun. If not, go to [Teamviewer Download Page](http://www.teamviewer.com/download/) and download it!
+2. Once you download the .dmg, .exe, or .deb file, open it up and begin the installation.
+
 
 
  
