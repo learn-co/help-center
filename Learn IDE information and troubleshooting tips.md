@@ -64,7 +64,7 @@ Atom will open a file with lines that look something like this:
 
     oauthToken: "oauth_token_here"
 ```
-! [oauth-token] (https://s3.amazonaws.com/ironboard-learn/help-center/oath-token.png)
+![oauth-token](https://s3.amazonaws.com/ironboard-learn/help-center/oauth-token.png)
 
 Now visit https://learn.co/ile/token, correctly paste it into this file between the “ “, and then save. Then fully quit the Learn IDE (using the Atom or File menu). Just clicking the (X) at the corner of the window to close is not enough. You MUST use the file menu to fully quit.
 
@@ -176,7 +176,7 @@ You can always check what jobs are running by using the jobs command in terminal
 # File system blob store error
 You may log in and see an error that looks like the photo below. Your Learn IDE does not load up properly.
 
-! [file-system-blob-store-error] (https://s3.amazonaws.com/ironboard-learn/help-center/file-system-blob-store-error.png)
+![file-system-blob-store-error](https://s3.amazonaws.com/ironboard-learn/help-center/file-system-blob-store-error.png)
 
 To fix this, go to the `~/.atom` directory using your computer’s local terminal, NOT the terminal in the Learn IDE and re-name the file blob-store to blob-store-backup.
 
@@ -184,7 +184,7 @@ To fix this, go to the `~/.atom` directory using your computer’s local termina
 
 If you get an error that looks like the one below:
 
-! [uncaught-error-repo-destroyed] (https://s3.amazonaws.com/ironboard-learn/help-center/uncaught-error-repo-destroyed.png)
+![uncaught-error-repo-destroyed](https://s3.amazonaws.com/ironboard-learn/help-center/uncaught-error-repo-destroyed.png)
 
 First try removing the troublesome repo with rm -rf ~/code/name_of_the_repo (if it's apparent which repo it is) and then re-cloning it (you can do this with learn open or the Open button in Learn.
 
