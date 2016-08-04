@@ -12,7 +12,7 @@ Windows 7+ (8+ preferred)
 
 # Do I have to use the IDE?
 
-Yes. If you are unable to use the IDE due to your operating system not meeting the requirements, please email support+ide@learn.co
+Yes. If you are unable to use the IDE due to your operating system not meeting the requirements, please email [support+ide@learn.co](mailto:support+ide@learn.co)
 
 # How do I check which version of the IDE I am using?
 
@@ -22,7 +22,7 @@ Windows: open the Help dropdown menu.
 
 # Where can I find my Oauth token? 
 
-http://learn.co/ile/token
+Visit [http://learn.co/ile/token](http://learn.co/ile/token)
 
 # How can I change the font size in the IDE terminal? In the text editor?
 
@@ -30,11 +30,11 @@ http://learn.co/ile/token
 
 # How can I download the IDE?
 
-The link to get set up with the Learn IDE is: https://learn.co/ide.
+The link to get set up with the Learn IDE is: [https://learn.co/ide](https://learn.co/ide).
 
 # How can I fully delete the IDE?
 
-We recommend using an app cleaner to ensure it is fully deleted. This is an app cleaner we can recommend for Mac users: https://freemacsoft.net/appcleaner/.
+We recommend using an app cleaner to ensure it is fully deleted. This is an app cleaner we can recommend for Mac users: [https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/).
 
 # The IDE isn't working for me. The text is greyed out in the terminal and I can’t type. What do I do?
 
@@ -66,7 +66,7 @@ Atom will open a file with lines that look something like this:
 ```
 ! [oauth-token] (https://s3.amazonaws.com/ironboard-learn/help-center/oath-token.png)
 
-Now visit https://learn.co/ile/token, correctly paste it into this file between the “ “, and then save. Then fully quit the Learn IDE (using the Atom or File menu). Just clicking the (X) at the corner of the window to close is not enough. You MUST use the file menu to fully quit.
+Now visit [https://learn.co/ile/token](https://learn.co/ile/token), correctly paste it into this file between the “ “, and then save. Then fully quit the Learn IDE (using the Atom or File menu). Just clicking the (X) at the corner of the window to close is not enough. You MUST use the file menu to fully quit.
 
 If your config file does not already have the code snippet, just add those lines right under the `userId:...` line as seen in the above screenshot.
 
@@ -120,7 +120,7 @@ If you are on an html lab and can't see the result of your work (images), do the
 1. Make sure you are using the most up to date version of the IDE.
 2. Type `httpserver` and you will see a link to go to for an http server. 
 
-# How do I view/open an HTML file OR I can't open index.html file from command line
+# How do I view/open an HTML file OR I can't open `index.html` file from command line
 
 Make sure you are using the most up to date version of the IDE. 
 
@@ -165,11 +165,11 @@ Remove the local copy of the Learn IDE application, and install a new version of
 
 # How can I upload files to my repo using the IDE?
 
-Right click on the folder where you would like to add the file to the Learn IDE and select Import File. Importing your files this will will correctly trigger the proper Learn IDE sync process. Note, max file size is ~15MB
+Right click on the folder where you would like to add the file to the Learn IDE and select Import File. Importing your files this will will correctly trigger the proper Learn IDE sync process. Note, max file size is ~15MB.
 
 # How can I run multiple processes in my IDE terminal?
 
-For some labs, you may need to run multiple processes (think `jekyll serve` in one and `learn` in the other - example: https://github.com/learn-co-curriculum/oo-student-scraper). This can easily be accomplished by running tasks in the background. Add an & to the end of your command (example: `jekyll serve &`) and it will now run in the background. Its output will still pop up in your terminal, but you'll get use of the prompt back.
+For some labs, you may need to run multiple processes (think `jekyll serve` in one and `learn` in the other - example: [https://github.com/learn-co-curriculum/oo-student-scraper](https://github.com/learn-co-curriculum/oo-student-scraper)). This can easily be accomplished by running tasks in the background. Add an & to the end of your command (example: `jekyll serve &`) and it will now run in the background. Its output will still pop up in your terminal, but you'll get use of the prompt back.
 
 You can always check what jobs are running by using the jobs command in terminal. This will display a list of currently running processes along with a number (starting at 1) associated with each job. Use `fg` and then the job number (example: `fg 1`) to bring any of the background jobs to the foreground. You'll need to do this to kill your background servers when you're done with them.
 
@@ -186,9 +186,9 @@ If you get an error that looks like the one below:
 
 ! [uncaught-error-repo-destroyed] (https://s3.amazonaws.com/ironboard-learn/help-center/uncaught-error-repo-destroyed.png)
 
-First try removing the troublesome repo with rm -rf ~/code/name_of_the_repo (if it's apparent which repo it is) and then re-cloning it (you can do this with learn open or the Open button in Learn.
+First try removing the troublesome repo with `rm -rf ~/code/name_of_the_repo` (if it's apparent which repo it is) and then re-cloning it (you can do this with learn open or the Open button in Learn).
 
-If that doesn't work, uninstall and re-install the Learn IDE from learn.co/ide.
+If that doesn't work, uninstall and re-install the Learn IDE from [learn.co/ide](learn.co/ide).
 
 # I keep getting a “Reconnecting...” message, how can I fix this?
 
@@ -202,7 +202,7 @@ In the your local Terminal (not the IDE), run: telnet ile.learn.co 4464 and teln
 Trying 159.203.117.55...
 Connected to ile.learn.co.
 ```
-Escape character is '^]'.
+Escape character is `^]`.
 
 Windows
 
