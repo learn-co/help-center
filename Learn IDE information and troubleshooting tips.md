@@ -145,6 +145,10 @@ Close Atom using the file menu (not just the X in the top corner). Then open the
 
 # The "Learn Open" button on learn.co isn't working
 
+In Windows, if a prompt appeared and "Do Nothing" has been chosen and the option for chrome to remember this option has been selected, then going forward they will not be able to launch the Learn IDE in Chrome.
+
+To fix this issue the user will need to open Windows Explorer (or any folder) and in the address field enter C:\Users\username\AppData\Local\Google\Chrome\User Data. Then locate the file "Local State" and open the file in a text editor, navigate to `protocol_handler` and locate where is says `learn-ide` and make sure it is set to `false`. Authorized applications have the word `false` next to them, and those which aren’t authorized to open any particular file format have the word `true`.
+
 See the information above (When I click on the Learn Open button, it opens Atom, but not the IDE), but another option for fixing this is to type "learn open" in the command line of the IDE. That should open your next lab.
 
 # The 'learn open' command in the IDE is opening the wrong lab
