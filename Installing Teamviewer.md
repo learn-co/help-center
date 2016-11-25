@@ -4,7 +4,7 @@ TeamViewer is a popular piece of software used for Internet-based remote access 
 
 We use it to enable screensharing between you and the Learn team. Sometimes, text isn't the best way to handle a question or have a conversation. So we use TeamViewer as a way for you to share your screen with us and have a real-time conversation about what's happening in your code.
 
-Learn more about it at http://www.teamviewer.com/
+Learn more about it at [http://www.teamviewer.com/](http://www.teamviewer.com/)
 
 # How to Install TeamViewer
 
@@ -25,6 +25,3 @@ Your installation should mirror the Mac installation steps (see above), with one
 # Installing TeamViewer on Linux
 
 Your installation should mirror the Mac installation steps (see above), with one exception. You should not see the Unattended Access setup flow (step 3 in the Mac OS installation instructions).
-
-
- 
